@@ -1,6 +1,6 @@
 # 재활용 품목 분류를 위한 Object Detection
 
-## 1. 프로젝트 개요
+## 프로젝트 개요
 
 <img src="./assets/introduce.png" alt="introduce" style="zoom:50%;" />
 
